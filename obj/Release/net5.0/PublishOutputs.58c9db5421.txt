@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\BackUp\BackUpDatabase.exe
+C:\Users\Ali\Desktop\BackUp\BackUpDatabase.dll
+C:\Users\Ali\Desktop\BackUp\BackUpDatabase.deps.json
+C:\Users\Ali\Desktop\BackUp\BackUpDatabase.runtimeconfig.json
+C:\Users\Ali\Desktop\BackUp\BackUpDatabase.pdb
+C:\Users\Ali\Desktop\BackUp\System.Data.SqlClient.dll
+C:\Users\Ali\Desktop\BackUp\runtimes\win-arm64\native\sni.dll
+C:\Users\Ali\Desktop\BackUp\runtimes\win-x64\native\sni.dll
+C:\Users\Ali\Desktop\BackUp\runtimes\win-x86\native\sni.dll
+C:\Users\Ali\Desktop\BackUp\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ali\Desktop\BackUp\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

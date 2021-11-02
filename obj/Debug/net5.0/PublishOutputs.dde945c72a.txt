@@ -1,0 +1,11 @@
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\BackUpDatabase.exe
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\BackUpDatabase.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\BackUpDatabase.deps.json
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\BackUpDatabase.runtimeconfig.json
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\BackUpDatabase.pdb
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\System.Data.SqlClient.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\runtimes\win-arm64\native\sni.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\runtimes\win-x64\native\sni.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\runtimes\win-x86\native\sni.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\employeemanager_52tg\BackUpDatabase\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
